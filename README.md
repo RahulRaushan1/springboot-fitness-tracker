@@ -2,10 +2,6 @@
 
 A production-ready RESTful Fitness Tracker application built with **Spring Boot**. Features JWT authentication, role-based access control, activity tracking, personalized recommendations, and full Swagger documentation — containerized with Docker and ready for cloud deployment.
 
-> Companion project for the *Learn Spring Boot by Building a Real Fitness Tracker* course (10+ hours).
-
----
-
 ## Table of Contents
 
 - [Features](#features)
